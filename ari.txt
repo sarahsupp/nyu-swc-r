@@ -1,1 +1,7 @@
 Hello from Ari!
+<<<<<<< HEAD
+Nice to meet you!
+=======
+
+Hi there Ari!
+>>>>>>> 9c78050c1865836c051111b176e79bff62442bf5
