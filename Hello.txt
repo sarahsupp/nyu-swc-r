@@ -1,2 +1,6 @@
  Hello there!
+<<<<<<< HEAD
  Hello again!
+=======
+Hi! I'm glad we're collaborating on this project!
+>>>>>>> 8e152bb0ad4206f6b2c4b835cadada018e1b6c61
